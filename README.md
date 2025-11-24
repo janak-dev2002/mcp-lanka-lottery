@@ -230,7 +230,7 @@ Want to run the server locally or contribute? Here's how:
 
 ```bash
 # Clone the repository
-git clone https://github.com/janak-dev2002/lanka-lottery-mcp.git
+git clone https://github.com/janak-dev2002/mcp-lanka-lottery.git
 cd lanka-lottery-mcp
 
 # Install dependencies
@@ -1120,7 +1120,7 @@ copies or substantial portions of the Software.
 - **FastMCP Documentation**: https://gofastmcp.com
 - **FastMCP Cloud Platform**: https://fastmcp.cloud
 - **MCP Specification**: https://modelcontextprotocol.io
-- **Project Repository**: https://github.com/janak-dev2002/lanka-lottery-mcp
+- **Project Repository**: https://github.com/janak-dev2002/mcp-lanka-lottery.git
 
 ### Quick Reference
 
