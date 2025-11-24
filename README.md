@@ -28,6 +28,7 @@
 - [Usage Examples](#-usage-examples)
 - [Client Integration](#-client-integration)
 - [FastMCP Cloud Deployment](#️-fastmcp-cloud-deployment)
+- [Deep Dive: MCP Guide](MCP_GUIDE.md) 📘
 - [MCP Server Architecture](#️-mcp-server-architecture)
 - [API Reference](#-api-reference)
 - [Testing](#-testing)
@@ -54,6 +55,8 @@ This server is **live on FastMCP Cloud**, which means:
 ### What is MCP?
 
 **Model Context Protocol (MCP)** is an open protocol that standardizes how applications provide context to Large Language Models (LLMs). Think of it as a universal connector that allows AI assistants to interact with external data sources, APIs, and tools in a standardized way.
+
+> 📘 **Want to learn more?** Check out our comprehensive [MCP Guide](MCP_GUIDE.md) for an in-depth exploration of MCP concepts, architecture, and best practices with real examples from this server!
 
 ### Why This Project?
 
@@ -1110,6 +1113,7 @@ copies or substantial portions of the Software.
 ### Documentation
 
 - **Full Documentation**: This README
+- **Deep Dive: MCP Guide**: [MCP_GUIDE.md](MCP_GUIDE.md) - Comprehensive guide to MCP concepts
 - **FastMCP Cloud**: https://gofastmcp.com/deployment/fastmcp-cloud
 - **HTTP Deployment**: https://gofastmcp.com/deployment/http
 - **Claude Integration**: https://gofastmcp.com/integrations/claude-desktop
@@ -1121,6 +1125,7 @@ copies or substantial portions of the Software.
 - **FastMCP Cloud Platform**: https://fastmcp.cloud
 - **MCP Specification**: https://modelcontextprotocol.io
 - **Project Repository**: https://github.com/janak-dev2002/mcp-lanka-lottery.git
+- **GitHub**: [@janak-dev2002](https://github.com/janak-dev2002)
 
 ### Quick Reference
 
